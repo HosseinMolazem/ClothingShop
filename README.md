@@ -18,9 +18,9 @@
 
 ***
 	 
-![](https://github.com/HosseinMolazem/CarGallery/blob/master/images/P1.jpg)
+![](https://github.com/HosseinMolazem/ClothingShop/blob/master/images/s1.jpg)
 
 
 ***
 
-![](https://github.com/HosseinMolazem/CarGallery/blob/master/images/P2.jpg)
+![](https://github.com/HosseinMolazem/ClothingShop/blob/master/images/s2.jpg)
